@@ -212,7 +212,7 @@ The browser will automatically open and display the application!
 
 ## 👨‍💻 Developer
 
-Built as an internship assignment for **Vibe Commerce**
+Built as an internship assignment for **Nexora**
 
 **Timeline:** Completed within 48 hours  
 **Date:** October 28-30, 2025
