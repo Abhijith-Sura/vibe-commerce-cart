@@ -116,10 +116,6 @@ The browser will automatically open and display the application!
 
 ### Home Page - Product Listing
 ![Home Page](screenshots/home.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> 7866d31a266ac3d3f21cf5ba37911a495aafbccd
 
 ### Shopping Cart
 ![Shopping Cart](screenshots/cart.png)
